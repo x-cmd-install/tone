@@ -23,7 +23,20 @@ x install tone
 - **Latest**: `v0.2.5` (2025-02-02)
 - **Last commit**: 2025-02-13
 - **Assets in release**: 9
-- **Published**: 2025-02-02T12:42:34Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tone-0.2.5-linux-arm.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-arm.tar.gz) | 20.9 MiB | `native/linux/arm` |
+| [tone-0.2.5-linux-arm64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-arm64.tar.gz) | 20.7 MiB | `native/linux/arm64` |
+| [tone-0.2.5-linux-musl-arm.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-musl-arm.tar.gz) | 20.9 MiB | `native/linux/arm/musl` |
+| [tone-0.2.5-linux-musl-arm64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-musl-arm64.tar.gz) | 20.7 MiB | `native/linux/arm64/musl` |
+| [tone-0.2.5-linux-musl-x64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-musl-x64.tar.gz) | 21.9 MiB | `native/unknown` |
+| [tone-0.2.5-linux-x64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-x64.tar.gz) | 21.9 MiB | `native/unknown` |
+| [tone-0.2.5-osx-arm64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-osx-arm64.tar.gz) | 20.7 MiB | `native/darwin/arm64` |
+| [tone-0.2.5-osx-x64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-osx-x64.tar.gz) | 22.0 MiB | `native/darwin/x64` |
+| [tone-0.2.5-win-x64.zip](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-win-x64.zip) | 20.8 MiB | `other` |
 
 ## Popularity
 
@@ -58,8 +71,8 @@ Total: **6,155** lines of code across **125** files in the top 5 languages.
 Install metadata for tone lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tone` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tone.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tone.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:07Z._
