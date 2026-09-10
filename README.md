@@ -12,6 +12,18 @@ tone is a cross platform audio tagger and metadata editor to dump and modify met
 x install tone
 ```
 
+## Code insight
+
+Total: **6,155** lines of code across **125** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| CSharp | 5,844 | 733 | 955 | 118 |
+| Svg | 98 | 0 | 0 | 1 |
+| MsBuild | 97 | 13 | 27 | 3 |
+| Json | 35 | 0 | 0 | 2 |
+| VisualStudioSolution | 31 | 0 | 1 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/sandreas/tone>
@@ -23,6 +35,25 @@ x install tone
 - **Latest**: `v0.2.5` (2025-02-02)
 - **Last commit**: 2025-02-13
 - **Assets in release**: 9
+
+## Popularity
+
+- **Stars**: 513 · **Forks**: 22 · **Open issues**: 84 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 25 · **Merged PRs**: 1 · **Open PRs**: 2 · **Closed issues**: 57 · **Open issues**: 27 · **Commits**: 236
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last720d | 2024-09-20 | 8 | 0 | 1 | 12 | 9 | 32 |
 
 ## Release assets
 
@@ -38,33 +69,13 @@ x install tone
 | [tone-0.2.5-osx-x64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-osx-x64.tar.gz) | 22.0 MiB | `native/darwin/x64` |
 | [tone-0.2.5-win-x64.zip](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-win-x64.zip) | 20.8 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 513 · **Forks**: 22 · **Open issues**: 84 · **Contributors**: 1
+Reported by **7** distros on [repology.org](https://repology.org/project/tone). **6** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 25 · **Merged PRs**: 1 · **Open PRs**: 2 · **Closed issues**: 57 · **Open issues**: 27 · **Commits**: 236
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 0 |
-
-## Code size
-
-Total: **6,155** lines of code across **125** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| CSharp | 5,844 | 733 | 955 | 118 |
-| Svg | 98 | 0 | 0 | 1 |
-| MsBuild | 97 | 13 | 27 | 3 |
-| Json | 35 | 0 | 0 | 2 |
-| VisualStudioSolution | 31 | 0 | 1 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.2.5` | ✅ latest |
 
 ## Improve this data
 
@@ -75,4 +86,4 @@ Install metadata for tone lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:19:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:15Z._
