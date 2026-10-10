@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 21709824,
       "digest": null,
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-02-02T12:42:48Z",
       "updated_at": "2025-02-02T12:42:49Z",
       "browser_download_url": "https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-musl-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 22932667,
       "digest": null,
-      "download_count": 169,
+      "download_count": 172,
       "created_at": "2025-02-02T12:42:46Z",
       "updated_at": "2025-02-02T12:42:47Z",
       "browser_download_url": "https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-musl-x64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22923016,
       "digest": null,
-      "download_count": 1164,
+      "download_count": 1168,
       "created_at": "2025-02-02T12:42:45Z",
       "updated_at": "2025-02-02T12:42:46Z",
       "browser_download_url": "https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-linux-x64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 21764447,
       "digest": null,
-      "download_count": 1691,
+      "download_count": 1700,
       "created_at": "2025-02-02T12:43:35Z",
       "updated_at": "2025-02-02T12:43:37Z",
       "browser_download_url": "https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-win-x64.zip"
