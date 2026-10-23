@@ -1,0 +1,83 @@
+- repo: aur
+  srcname: tone-bin
+  binname: tone-bin
+  visiblename: tone-bin
+  version: 0.2.5
+  origversion: 0.2.5-1
+  status: newest
+  summary: A cross platform utility to dump and modify audio metadata for a wide variety of formats.
+  maintainers:
+    - spiritomb@aur
+  licenses:
+    - Apache
+- repo: nix_stable_24_05
+  srcname: tone
+  visiblename: tone
+  version: 0.1.5
+  origversion: null
+  status: outdated
+  summary: A cross platform utility to dump and modify audio metadata for a wide variety of formats
+  maintainers:
+    - supermanitu@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: tone
+  visiblename: tone
+  version: 0.2.5
+  origversion: null
+  status: newest
+  summary: Cross platform utility to dump and modify audio metadata for a wide variety of formats
+  maintainers:
+    - supermanitu@gmail.com
+    - jordan@jwillikers.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: tone
+  visiblename: tone
+  version: 0.2.5
+  origversion: null
+  status: newest
+  summary: Cross platform utility to dump and modify audio metadata for a wide variety of formats
+  maintainers:
+    - supermanitu@gmail.com
+    - jordan@jwillikers.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: tone
+  visiblename: tone
+  version: 0.2.5
+  origversion: null
+  status: newest
+  summary: Cross platform utility to dump and modify audio metadata for a wide variety of formats
+  maintainers:
+    - supermanitu@gmail.com
+    - jordan@jwillikers.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: tone
+  visiblename: tone
+  version: 0.2.5
+  origversion: null
+  status: newest
+  summary: Cross platform utility to dump and modify audio metadata for a wide variety of formats
+  maintainers:
+    - supermanitu@gmail.com
+    - jordan@jwillikers.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: tone
+  visiblename: tone
+  version: 0.2.5
+  origversion: null
+  status: newest
+  summary: Cross platform utility to dump and modify audio metadata for a wide variety of formats
+  maintainers:
+    - supermanitu@gmail.com
+    - jordan@jwillikers.com
+  licenses:
+    - Apache-2.0
