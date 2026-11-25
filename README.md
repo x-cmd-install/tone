@@ -48,12 +48,12 @@ Total: **6,155** lines of code across **125** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last720d | 2024-12-04 | 6 | 0 | 2 | 6 | 7 | 18 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last720d | 2024-12-05 | 5 | 0 | 2 | 6 | 7 | 18 |
 
 ## Release assets
 
@@ -69,14 +69,6 @@ Total: **6,155** lines of code across **125** files in the top 5 languages.
 | [tone-0.2.5-osx-x64.tar.gz](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-osx-x64.tar.gz) | 22.0 MiB | `native/darwin/x64` |
 | [tone-0.2.5-win-x64.zip](https://github.com/sandreas/tone/releases/download/v0.2.5/tone-0.2.5-win-x64.zip) | 20.8 MiB | `other` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/tone). **6** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.2.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for tone lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tone` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +78,4 @@ Install metadata for tone lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:49:24Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:22:25Z._
